@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasJSChartExample", "CanvasJSChartExample.csproj", "{5057E62A-0BF0-4F71-979E-C50E7FCDE25B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5057E62A-0BF0-4F71-979E-C50E7FCDE25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5057E62A-0BF0-4F71-979E-C50E7FCDE25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5057E62A-0BF0-4F71-979E-C50E7FCDE25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5057E62A-0BF0-4F71-979E-C50E7FCDE25B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CF213CC-D80E-416A-A5AE-83578518F661}
+	EndGlobalSection
+EndGlobal
